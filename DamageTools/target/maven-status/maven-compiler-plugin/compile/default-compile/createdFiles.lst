@@ -1,0 +1,7 @@
+me\eophantom\damagetools\commands\DamageConfigCommands.class
+me\eophantom\damagetools\gui\ManageExceptionGUI.class
+me\eophantom\damagetools\gui\DamageConfigGui.class
+me\eophantom\damagetools\gui\DamageAmountGui.class
+me\eophantom\damagetools\gui\DamageExceptionGui.class
+me\eophantom\damagetools\Setter.class
+me\eophantom\damagetools\DamageTools.class

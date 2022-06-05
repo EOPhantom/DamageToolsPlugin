@@ -1,0 +1,10 @@
+name: DamageTools
+version: '${project.version}'
+main: me.eophantom.damagetools.DamageTools
+api-version: 1.18
+authors: [ EOphantom ]
+description: Minecraft but every time you take damage so do your items
+commands:
+  config:
+    description: setup plugin
+    usage: /<command>
